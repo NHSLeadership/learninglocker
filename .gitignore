@@ -10,3 +10,8 @@ Thumbs.db
 /app/config/production
 /app/config/staging
 /app/config/local/*.php
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml

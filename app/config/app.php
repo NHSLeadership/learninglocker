@@ -40,7 +40,7 @@ return array(
   | ahead and set this to a sensible default for you out of the box.
   |
   */
- 
+
   'timezone' => 'UTC',
 
   /*
@@ -67,7 +67,7 @@ return array(
   |
   */
 
-  'key' => 'yoursecretkey!',
+  'key' => 'YBBRebinADMSGNgHKBY2r2wPUSaEFLPe4',
 
   /*
   |--------------------------------------------------------------------------
